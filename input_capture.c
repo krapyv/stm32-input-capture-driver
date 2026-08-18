@@ -1,5 +1,4 @@
 #include "stm32f411.h"
-#include "core_cm4.h"
 #include "input_capture.h"
 
 IC_HandleTypeDef input_capture; // memory allocated

@@ -2,7 +2,8 @@
 #define INPUT_CAPTURE_DRIVER_H
 
 #include <stdint.h>
-#include "stm32f411.h"
+#include "core/stm32f411.h"
+#include "core/core_cm4.h"
 
 typedef enum
 {
